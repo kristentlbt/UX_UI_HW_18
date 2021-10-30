@@ -233,16 +233,18 @@ footer{
     display: block;
     max-width: 480px;
     margin: auto;
-    background-color: #FFFFFF;
+    background-color: #FFDED9;
     font-family: 'Raleway', sans-serif;
     height: 50px;
     border-radius: 10px;
+    width: 95%;
   }
   
   .topnav {
     overflow: hidden;
-    background-color: #FFFFFF;
+    background-color: #FFDED9;
     position: relative;
+    
    
   }
   
@@ -268,17 +270,14 @@ footer{
   
   .active {
     background-color: #04AA6D;
-    color: white;
+    color: #FFDED9;
   }
 
   .logo{
     display: flex;
   }
 
-  .name{
-    text-decoration: underline;
-    text-decoration-color: #e75480
-  }
+
 
   .aboutMeSection{
     display: block;
