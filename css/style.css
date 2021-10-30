@@ -165,7 +165,10 @@ footer{
   text-decoration: underline;
   text-decoration-color: #e75480
 }
-
+.resume{
+  text-decoration: underline;
+  text-decoration-color: #e75480
+}
 .headerImg{
   width:300px;height:400px; float: left;
 }
